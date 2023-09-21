@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Airbnb.iml" filepath="$PROJECT_DIR$/.idea/Airbnb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../my-first-projects/.idea/my-first-projects.iml" filepath="$PROJECT_DIR$/../../../my-first-projects/.idea/my-first-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../python-learning-tutorial/.idea/python-learning-tutorial.iml" filepath="$PROJECT_DIR$/../../../../python-learning-tutorial/.idea/python-learning-tutorial.iml" />
     </modules>
   </component>
 </project>
